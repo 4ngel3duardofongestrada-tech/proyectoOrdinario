@@ -1,6 +1,6 @@
 # Proyecto: Partido de Fútbol con Patrones de Diseño
 
-Nombre: [tu nombre aquí]
+Nombre: Ángel Eduardo Fong Estrada
 
 ## Descripción
 
