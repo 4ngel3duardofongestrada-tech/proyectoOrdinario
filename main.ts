@@ -104,7 +104,10 @@ function main(): void {
     partido.anotarGol(segundoGol, true);
 
 
-    console.log("\n||||aca se verifica que el clone() no afecto los objetos originales:||||");
+        console.log("\nFIN DEL PARTIDO Y FALLO HISTORICO DE EL FARCA Y DOMINIO TOTAL DE LOS TIGRES DE LA PODEROSA UANL");
+
+
+
     console.log(chilena.displayInfo());
     console.log(tiroLibre.displayInfo());
 }
